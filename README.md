@@ -7,17 +7,19 @@ BlockFund is a decentralized crowdfunding application that allows creators to ra
 To democratize fundraising by removing intermediaries and enabling trustless, transparent funding mechanisms powered by smart contracts.
 
 ## Key Features
-- Campaign creator sets funding goal and duration
-- Secure contributions using ETH
+- Campaign creator sets up a crowdfunding contract with a fixed goal and duration
+- Secure ETH contributions from multiple backers
 - Automatic fund release upon goal completion
-- Refunds to contributors if the goal isn’t met
+- Refunds available if the campaign fails
 
 ## Future Scope
-- Multiple campaign support per user
-- NFT-based contributor rewards
-- DAO-governed campaigns
-- UI/UX integration for ease of access
+- Support for multiple campaigns per user
+- UI dashboard to track campaign progress
+- NFT badges for early contributors
+- Social sharing and promotion tools
 
 ## Contract Details
 0x2F828c26473C423dbA4aEc674D48be16ed9Ed8C7
+
+C:\Users\Khushi\OneDrive\Pictures\Screenshots 1\Screenshot 2025-06-20 150557.png
 
