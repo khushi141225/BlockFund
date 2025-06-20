@@ -21,5 +21,5 @@ To democratize fundraising by removing intermediaries and enabling trustless, tr
 ## Contract Details
 0x2F828c26473C423dbA4aEc674D48be16ed9Ed8C7
 
-C:\Users\Khushi\OneDrive\Pictures\Screenshots 1\Screenshot 2025-06-20 150557.png
+![Screenshot 2025-06-20 150557](https://github.com/user-attachments/assets/1d855703-4c88-431e-aaec-828b150138e0)
 
