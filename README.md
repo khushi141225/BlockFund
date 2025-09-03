@@ -8,7 +8,7 @@ To democratize fundraising by removing intermediaries and enabling trustless, tr
 
 ## Key Features
 - Campaign creator sets up a crowdfunding contract with a fixed goal and duration
-- Secure ETH contributions from multiple backers
+- Secure ETH contributions from multiple backers 
 - Automatic fund release upon goal completion
 - Refunds available if the campaign fails
 
